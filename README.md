@@ -34,5 +34,4 @@ To see the working of this project please to [3. Facial Keypoint Detection, Comp
 ```bash
   3. Predicted facial keypoints
 ```
-<img src='./images/pred_1.png' width=40% height=40%/>
-<img src='./images/pred_2.png' width=40% height=40%/>
+<img src='./images/pred_1.png' width=40% height=40%/> <img src='./images/pred_2.png' width=40% height=40%/>
