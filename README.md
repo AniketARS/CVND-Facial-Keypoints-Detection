@@ -16,6 +16,6 @@ Facial keypoints (also called facial landmarks) are the small magenta dots shown
 
 ## Demo
 
-To see the working of this project please to [3. Facial Keypoint Detection, Complete Pipeline.ipynb](/3.\ Facial\ Keypoint\ Detection,\ Complete\ Pipeline.ipynb)
+To see the working of this project please to [3. Facial Keypoint Detection, Complete Pipeline.ipynb](3.&#32;Facial&#32;Keypoint&#32;Detection,&#32;Complete&#32;Pipeline.ipynb)
 
   
