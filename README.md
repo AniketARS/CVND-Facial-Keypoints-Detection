@@ -13,9 +13,26 @@ Facial keypoints (also called facial landmarks) are the small magenta dots shown
 
 ---
 
-
 ## Demo
 
 To see the working of this project please to [3. Facial Keypoint Detection, Complete Pipeline.ipynb](3.&#32;Facial&#32;Keypoint&#32;Detection,&#32;Complete&#32;Pipeline.ipynb) or to see the applications of this project please refer to [4. Fun with Keypoints.ipynb](4.&#32;Fun&#32;with&#32;Keypoints.ipynb)
 
-  
+---
+
+## Screenshots
+
+```bash
+  1. Load image
+```
+<img src='./images/input.png' width=50% height=50%/>
+
+```bash
+  1. Face Detection using Haar Cascade
+```
+<img src='./images/face_detection.png' width=50% height=50%/>
+
+```bash
+  3. Predicted facial keypoints
+```
+<img src='./images/pred_1.png' width=40% height=40%/>
+<img src='./images/pred_2.png' width=40% height=40%/>
